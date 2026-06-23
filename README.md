@@ -7,14 +7,22 @@
 
 专注于 **图形渲染**、**DCC 工具链** 与 **开发效率工具** 的开发者。
 
-自 2017 年起在 GitHub 上持续构建与分享开源项目。
-
-[个人主页](https://github.com/timesups) · [个人网站](https://timesups.github.io)
+ [个人博客](https://timesups.github.io)
 
 </div>
 
 ---
 
+## 📊 GitHub 统计
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=timesups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timesups&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
+---
 ## 🛠️ 技术栈
 
 | 领域 | 技术 |
@@ -26,20 +34,7 @@
 | 运维部署 | Docker · PowerShell |
 
 ---
-
-## ⭐ 精选项目
-
-| 项目 | 描述 | 语言 |
-|------|------|------|
-| [GLEngineNew](https://github.com/timesups/GLEngineNew) | OpenGL 图形引擎 | `C++` |
-| [RenderDocExporter](https://github.com/timesups/RenderDocExporter) | RenderDoc 数据导出工具 | `Python` |
-| [SRR](https://github.com/timesups/SRR) | 图形渲染相关项目 | `C++` |
-| [FanMonitor](https://github.com/timesups/FanMonitor) | 风扇监控工具 | `Python` |
-| [timesups.github.io](https://github.com/timesups/timesups.github.io) | 个人网站 | `HTML` |
-
----
-
-## 📦 更多仓库
+## 📦 主要仓库
 
 ### 图形与渲染
 
@@ -67,26 +62,6 @@
 - [timesups.github.io](https://github.com/timesups/timesups.github.io) — 个人网站 `HTML`
 
 ---
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=timesups&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timesups&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 近期活跃
-
-近期主要贡献于以下仓库：
-
-`timesups` · `RenderDocExporter` · `GLEngineNew` · `SRR` · `FanMonitor`
-
----
-
 <div align="center">
 
 **感谢来访，欢迎 Star 与 Fork！**
