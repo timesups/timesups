@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/timesups?style=social)](https://github.com/timesups?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/timesups?style=social)](https://github.com/timesups)
 
-专注于 **图形渲染**、**DCC 工具链** 与 **开发效率工具** 的开发者。
 
  [个人博客](https://timesups.github.io)
 
@@ -27,18 +26,15 @@
 
 | 领域 | 技术 |
 |------|------|
-| 图形与引擎 | C++ · OpenGL · RenderDoc |
-| 脚本与工具 | Python |
-| Web 前端 | TypeScript · HTML |
+| 图形与引擎 | C++ · OpenGL|
+| 脚本与工具 | Python · RenderDoc|
 | DCC 管线 | Maya 插件 · AYON |
-| 运维部署 | Docker · PowerShell |
-
 ---
 ## 📦 主要仓库
 
 ### 图形与渲染
 
-- [GLEngineNew](https://github.com/timesups/GLEngineNew) — OpenGL 图形引擎 `C++`
+- [GLEngine](https://github.com/timesups/GLEngine) — OpenGL 图形引擎 `C++`
 - [RenderDocExporter](https://github.com/timesups/RenderDocExporter) — RenderDoc 导出工具 `Python`
 - [SRR](https://github.com/timesups/SRR) — 图形渲染项目 `C++`
 
@@ -64,6 +60,6 @@
 ---
 <div align="center">
 
-**感谢来访，欢迎 Star 与 Fork！**
+**感谢来访**
 
 </div>
