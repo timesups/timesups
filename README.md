@@ -26,8 +26,8 @@
 
 | 领域 | 技术 |
 |------|------|
-| 图形与引擎 | C++ · OpenGL|
-| 脚本与工具 | Python · RenderDoc|
+| 图形与引擎 | C++ · OpenGL · Unity · C# |
+| 脚本与工具 | Python · PyQt · RenderDoc |
 | DCC 管线 | Maya 插件 · AYON |
 ---
 ## 📦 主要仓库
@@ -35,6 +35,7 @@
 ### 图形与渲染
 
 - [GLEngine](https://github.com/timesups/GLEngine) — OpenGL 图形引擎 `C++`
+- [CustomRenderPipeline](https://github.com/timesups/CustomRenderPipeline) — Unity 自定义渲染管线 `C#`
 - [RenderDocExporter](https://github.com/timesups/RenderDocExporter) — RenderDoc 导出工具 `Python`
 - [SRR](https://github.com/timesups/SRR) — 图形渲染项目 `C++`
 
@@ -54,6 +55,7 @@
 
 ### 工具与其他
 
+- [TubeDown](https://github.com/timesups/TubeDown) — 基于 PyQt6 + yt-dlp 的视频下载工具 `Python`
 - [FanMonitor](https://github.com/timesups/FanMonitor) — 风扇监控 `Python`
 - [timesups.github.io](https://github.com/timesups/timesups.github.io) — 个人网站 `HTML`
 
