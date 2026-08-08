@@ -9,13 +9,12 @@
  [个人博客](https://timesups.github.io)
 
 </div>
----
 ## 🛠️ 技术栈
 
 | 领域 | 技术 |
 |------|------|
 | 图形与引擎 | C++ · OpenGL · Unity · C# |
-| 脚本与工具 | Python · PyQt · RenderDoc |
+| 脚本与工具 | Python · PyQt · TypeScript · RenderDoc |
 | DCC 管线 | Maya 插件 · AYON |
 ---
 ## 📦 主要仓库
@@ -43,6 +42,7 @@
 
 ### 工具与其他
 
+- [TubeTranslate](https://github.com/timesups/TubeTranslate) — 视频自动翻译配音全栈工具 `Python` · `TypeScript`
 - [TubeDown](https://github.com/timesups/TubeDown) — 基于 PyQt6 + yt-dlp 的视频下载工具 `Python`
 - [FanMonitor](https://github.com/timesups/FanMonitor) — 风扇监控 `Python`
 - [timesups.github.io](https://github.com/timesups/timesups.github.io) — 个人网站 `HTML`
